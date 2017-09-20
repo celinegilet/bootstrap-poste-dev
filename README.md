@@ -40,7 +40,9 @@
 
 #### Node / Npm
   * [Node + Npm](https://nodejs.org/en/download/)
-  * _Recette_ : 
+  * ou [NVM](https://github.com/creationix/nvm)
+    * Sous MAC : **`brew update`** **`brew install nvm`** et edit du bash profile [install nvm with homebrew](http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/)
+  * _Recette_ : 
     * **`node -v`**
     * **`npm -v`**
     * [Tests unitaires NodeJs](https://github.com/Akhilian/NodeJSKata)
