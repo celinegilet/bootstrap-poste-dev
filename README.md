@@ -24,7 +24,7 @@
 
 #### Java (Java Development Kit)
   * [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-  * _Recette_ : **`java --version`**
+  * _Recette_ : **`java -version`**
 
 #### Maven
   * [Maven](https://maven.apache.org/download.cgi)
