@@ -73,7 +73,7 @@
 #### Text/Code Editor
   * [Visual Studio Code](https://code.visualstudio.com/)
   * [Atom](https://atom.io/)
-  * [SublimeText](https://www.sublimetext.com)
+  * [SublimeText](https://www.sublimetext.com/3)
   * [Nodepad++](https://notepad-plus-plus.org/download/)
 
 #### Amazon CLI
