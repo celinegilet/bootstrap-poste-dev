@@ -26,7 +26,6 @@
   * [Java](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
   * _Recette_ : **`java --version`**
 
->>>>>>> 15216b60bf5eacc3a97ffa2d4999c39cf594cc81
 #### Maven
   * [Maven](https://maven.apache.org/download.cgi)
   * Sous MAC : **`brew update`** **`brew install maven`**
@@ -48,13 +47,14 @@
 
 #### Node / Npm
   * [Node + Npm](https://nodejs.org/en/download/)
-  * ou [NVM](https://github.com/creationix/nvm)
-    * Sous MAC : **`brew update`** **`brew install nvm`** et edit du bash profile [install nvm with homebrew](http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/)
   * _Recette_ : 
     * **`node -v`**
     * **`npm -v`**
     * [Tests unitaires NodeJs](https://github.com/Akhilian/NodeJSKata)
-  * _Facultatif_ : installation d'un gestionnaire de version Node.js [N](https://github.com/tj/n) pour switcher d'une version à une autre
+  * _Facultatif_ : 
+    * Installation d'un gestionnaire de version Node.js [N](https://github.com/tj/n) pour switcher d'une version à une autre
+    * [NVM](https://github.com/creationix/nvm)
+    * Sous MAC : **`brew update`** **`brew install nvm`** et edit du bash profile [install nvm with homebrew](http://dev.topheman.com/install-nvm-with-homebrew-to-use-multiple-versions-of-node-and-iojs-easily/)
 
 #### IntelliJ
   * [IntelliJ Version Ultimate](https://www.jetbrains.com/idea/download) avec licence
@@ -84,7 +84,7 @@
   * [Installation pour MAC](https://valdhaus.co/writings/ansible-mac-osx/)
 
 ## Notes
- * [Index des installations via brew](http://brewformulas.org/)
- * [Index des artifacts via maven](https://mvnrepository.com/)
- * [Index des boxes Vagrant](https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=)
- * [Tuto usage vagrant](http://sourabhbajaj.com/mac-setup/Vagrant/README.html)
+  * [Index des installations via brew](http://brewformulas.org/)
+  * [Index des artifacts via maven](https://mvnrepository.com/)
+  * [Index des boxes Vagrant](https://app.vagrantup.com/boxes/search?utf8=%E2%9C%93&sort=downloads&provider=&q=)
+  * [Tuto usage vagrant](http://sourabhbajaj.com/mac-setup/Vagrant/README.html)
