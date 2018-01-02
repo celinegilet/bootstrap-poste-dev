@@ -47,7 +47,7 @@
 
 #### Node / Npm
   * [Node + Npm](https://nodejs.org/en/download/)
-  * _Recette_ : 
+  * _Recette_ : 
     * **`node -v`**
     * **`npm -v`**
     * [Tests unitaires NodeJs](https://github.com/Akhilian/NodeJSKata)
